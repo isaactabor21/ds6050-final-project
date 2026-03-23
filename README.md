@@ -9,9 +9,11 @@ Convolutional Neural Networks (CNNs) for Wildfire Detection
 **Proposal:**
 
 **1. Motivation: What problem are we tackling? Is this an application or a theoretical result?**
+
 The goal of our project is to help address the problem of wildfire detection by building a deep learning
 model capable of identifying wildfire-affected regions from satellite imagery, by classifying satellite
 image patches as either wildfire or no wildfire. This is primarily an application result.
+
 According to NASA, extreme wildfire activity has more than doubled worldwide, and has been amplified
 due to Earth’s warming climate, particularly in northern and temperate forests, and satellite data is rich in
 helping detect and track them, by helping communities and land managers prepare for and respond to
@@ -20,6 +22,7 @@ each day. In 2023, Canada’s warmest and driest conditions since 1980 stoked ex
 five months. NASA researchers found that these fires released about 640 million metric tons of carbon.
 Isaac, being from Minnesota, has also experienced many summer days in Minnesota with unhealthy air
 quality due to Canadian wildfires.
+
 Training a CNN to classify image patches as “fire” or “no fire” could enhance early detection of wildfires,
 that could be timelier and more scalable for environmental management and disaster response than
 manually analyzing large volumes of satellite imagery.
