@@ -47,18 +47,18 @@ Spiller, D., Carbone, A., Amici, S., Thangavel, K., Sabatini, R., & Laneve, G. (
 Using Convolutional Neural Networks and PRISMA Hyperspectral Imagery: A Spatial-Spectral Analysis.
 Remote Sensing, 15(19), 4855. https://doi.org/10.3390/rs15194855
 
-• This research paper examined the generalization capability of four neural network models: the
+- This research paper examined the generalization capability of four neural network models: the
 fully connected (FC), one-dimensional (1D) CNN, two-dimensional (2D) CNN, and threedimensional (3D) CNN model
-• They used training data from Australia and Sicily and evaluated the performances of the trained
+ They used training data from Australia and Sicily and evaluated the performances of the trained
 model on test dataset from Oregon.
-• Their results were that their FC architecture generalized best, while their 3D CNN model offered
+- Their results were that their FC architecture generalized best, while their 3D CNN model offered
 “more refined and less distorted classifications”
-• However, they had a persistent issue with false fire detection and confusion between smoke and
+- However, they had a persistent issue with false fire detection and confusion between smoke and
 shadows
 M. S. Khan, R. Patil and S. Ali Haider, "Application of Convolutional Neural Networks For Wild Fire
 Detection," 2020 SoutheastCon, Raleigh, NC, USA, 2020, pp. 1-5, doi:
 10.1109/SoutheastCon44009.2020.9368283.
-• These results were very promising as a CNN with one convolution layer, 64 classification nodes,
+- These results were very promising as a CNN with one convolution layer, 64 classification nodes,
 and 2 fully connected layers gave the best accuracy
 
 **4. Technical Plan: What are the inputs and outputs of our task? Which deep learning models
@@ -85,5 +85,5 @@ benchmark for our model’s performance.
 
 **6. References**
 
-• https://science.nasa.gov/earth/explore/wildfires-and-climate-change/
-• https://docs.pytorch.org/docs/stable/generated/torch.nn.BCEWithLogitsLoss.html
+- https://science.nasa.gov/earth/explore/wildfires-and-climate-change/
+- https://docs.pytorch.org/docs/stable/generated/torch.nn.BCEWithLogitsLoss.html
