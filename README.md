@@ -38,7 +38,7 @@ dataset. All images are colored. Original wildfire records come from the Governm
 
 *Data Portal URL:* https://open.canada.ca/data/en/dataset/9d8f219c-4df0-4481-926f-8a2a532ca003
 
-Description with some basic stats:
+*Description with some basic stats:*
 
 Dataset contains satellite images (350px x 350 px) in 2 classes: Wildfire (22710 images) and No wildfire
 (20140 images). File names are coordinates, so a stretch goal could be to aggregate predicted probabilities
